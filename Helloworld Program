@@ -1,4 +1,3 @@
-def e():
-    print("Hello World")
-e()           
+def hello():
+    return "Hello World"
 
