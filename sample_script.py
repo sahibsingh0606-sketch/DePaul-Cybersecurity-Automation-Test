@@ -12,6 +12,8 @@ def display_sum(a, b):
     """
     sum_result = calculate_sum(a, b)
     print(f"The sum of {a} and {b} is {sum_result}.")
+def hello():
+    return "Hello World"
 
 def main():
     """
